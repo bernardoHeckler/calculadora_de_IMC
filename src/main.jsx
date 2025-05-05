@@ -6,7 +6,7 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter basename="/calculadora_de_imc/">
+    <BrowserRouter basename="/calculadora_de_IMC/">
       <App />
     </BrowserRouter>
   </React.StrictMode>
